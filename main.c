@@ -1,6 +1,8 @@
 /* main.c */
 #include <stdio.h>
 
+//test
+
 #include "askname.h"
 
 int main(int argc, char **argv)
